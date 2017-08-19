@@ -27,4 +27,21 @@
 - company: <a target="_blank" href="http://www.ishisystems.com/">Ishi Informations Systems</a>
   position: Junior Programmer Analyst
   duration:   Dec, 2013  &mdash; Dec, 2015
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+  summary: >
+            I worked as a full-stack developer on different types of projects such as
+            Text Analysis, Telecommunication Services, Big Data & Analytics.
+            <ul class="resume-item-list">
+              <li>Evaluated Docker & Kubernetes and how they can be used in our project to reduce infrastructure costs.</li>
+              <li>Wrote a Flume Sink and a custom Metrics Reporter which received data and calculated certain metrics and sent it to
+                  Ambari Metrics Collector</li>
+              <li>Wrote a custom module for Freeradius to authorize SIM cards as per our requirements.</li>
+              <li>Wrote a resume parsing logic that prioritized the candidates according to the job description posted by a
+              recruiter.</li>
+              <li>Wrote a resume rating algorithm which intelligently rated a resume considering minute parameters that job portals
+                  often overlooked.</li>
+              <li>Worked on doing a live speaker diarization of the telephonic interviews by applying the concepts of machine learning
+                  and audio processing using HTML5 Web Audio Library.</li>
+            </ul>
+            <b>Technologies: </b>Java, Spring, AngularJS, Docker, Kubernetes, Apache Storm, Ambari Metrics Collector, Apache Flume, Metrics Core
+                            , Hibernate, MongoDB, SONAR, Django, Python, NLTK, SciPy
+
