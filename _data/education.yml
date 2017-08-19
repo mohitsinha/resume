@@ -1,6 +1,18 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: B.Tech, Information & Communication Technology
+  uni: Dhirubhai Ambani Institute of Information and Communication Technology
+  year: 2010 &mdash; 2014
+  awards: CPI:- 7.14
+#  summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Intermediate
+  uni: Central Board of Secondary Education
+  year: 2010
+  awards: 91.6%
+#  summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Matriculation
+  uni: Central Board of Secondary Education
+  year: 2008
+  awards: 94%
+#  summary: If you had any meaningful roles at college, feel free to write about them here
