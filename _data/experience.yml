@@ -1,6 +1,6 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Baeldung
+- company: <a target="_blank" href="http://www.baeldung.com/">Baeldung</a>
   position: Technical Author
   duration: June, 2017 &mdash; Present
   summary: >
@@ -10,7 +10,7 @@
 
 
 # Windmill Crank Operator
-- company: Turtlemint
+- company: <a target="_blank" href="https://www.turtlemint.com/">Turtlemint</a>
   position: Software Engineer
   duration:  Jan, 2016 &mdash; Present
   summary: >
@@ -24,7 +24,7 @@
 
 
 # Front Desk Attendant
-- company: Ishi Informations Systems
+- company: <a target="_blank" href="http://www.ishisystems.com/">Ishi Informations Systems</a>
   position: Junior Programmer Analyst
   duration:   Dec, 2013  &mdash; Dec, 2015
   summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
