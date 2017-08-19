@@ -3,15 +3,24 @@
 - company: Baeldung
   position: Technical Author
   duration: June, 2017 &mdash; Present
-  summary: I write tutorials on Java, Spring and Apache libraries.
+  summary: >
+            I write tutorials on Java, Spring and Apache libraries.
+            <ul></ul>
+            <b>Technologies: </b>Java, Spring
+
 
 # Windmill Crank Operator
 - company: Turtlemint
   position: Software Engineer
   duration:  Jan, 2016 &mdash; Present
-  summary: I work as a full-stack developer. My roles include researching technologies, discussing design & architecture, development and deployment.	<ul class="resume-item-list"><li>Worked on the architecture, automation of tasks and deployment of their main product Mintpro using tools like Docker,
-                                                                                                                         Ansible & SBT</li><li>Notification service which handles different types of communication with user(Push notification, SMS, email).</li><li>Developed an automated internal tool which helps in mapping our vehicle database with every individual insurers data
-                                                                                                                                                                                                                                                                     regularly</li></ul>
+  summary: >
+            I work as a full-stack developer. My roles include researching technologies, discussing design & architecture, development and deployment.
+            <ul class="resume-item-list">
+              <li>Worked on the architecture, automation of tasks and deployment of their main product Mintpro using tools like Docker, Ansible & SBT</li>
+              <li>Notification service which handles different types of communication with user(Push notification, SMS, email).</li>
+              <li>Developed an automated internal tool which helps in mapping our vehicle database with every individual insurers data regularly</li>
+            </ul>
+            <b>Technologies: </b>Java, Play framework, MongoDB, AngularJS, Elasticsearch, Spring 5, Spring Boot 2, Spring Data Reactive, Docker, Ansible, Sails JS
 
 
 # Front Desk Attendant
